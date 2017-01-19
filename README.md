@@ -1,7 +1,7 @@
 Project Specification:
 
 Develop a database schema to store details of Swiss tournament matches between players.
-Write a Python module to rank the players and pair them up in matches in a tournament.
+Write a Python module  that uses the PostgreSQL database to rank the players and pair them up in matches in a tournament.
 
 Files:
 
